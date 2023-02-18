@@ -1,6 +1,6 @@
 {
   "name": "sugma.js",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "repository": "git@github.com:LizAinslie/Sugma.js.git",
   "author": "Liz Ainslie <lizainslie16@gmail.com>",
